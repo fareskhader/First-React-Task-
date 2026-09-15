@@ -7,14 +7,14 @@ import Contact from './conponents/contact/Contact.jsx'
 import './index.css'
 function app(){
 
-  return <>
+  return <div className=' d-flex flex-column'>
    <Navbar />
     <Hero />
     <Portfolio/>
     <About/>
     <Contact />
     <Footer/>
-      </>
+      </div>
 
 }
 

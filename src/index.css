@@ -15,6 +15,10 @@ font-family: "Lato", sans-serif;
 {
 background-color: rgba(44, 62, 80, 1);
 }
+.secondary_textcolor
+{
+color: rgba(44, 62, 80, 1);
+}
 
 .green_background
 {
@@ -28,6 +32,10 @@ background-color: rgba(26 ,188 , 156, 1);
 .heading_font_size
 {
   font-size: 4rem;
+}
+.heading2_font_size
+{
+  font-size: 3rem;
 }
 
 
@@ -56,11 +64,28 @@ li
   padding: 0 15px; 
 }
 
+.divider-custom-line-dark {
+  width: 100px; 
+  height: 3px;
+background-color: rgba(44, 62, 80, 1);
+}
+
+.divider-custom-icon-dark {
+ color: rgba(44, 62, 80, 1);
+  font-size: 2rem;
+  padding: 0 15px; 
+}
+
 .w-20
 {
   width: 200px;
 }
 .custom_padding
 {
-  padding-top: 130px;
+  padding-top: 190px;
+}
+
+.bottom_padding
+{
+padding-bottom: 100px;
 }
