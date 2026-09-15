@@ -2,7 +2,7 @@ function Porfolio(){
 
     return<aside>
         <h3>
-    prtfolio
+    prtfolioooooooooooo
         </h3>
     </aside>
 }

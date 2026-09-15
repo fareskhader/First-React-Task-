@@ -6,11 +6,11 @@ import { faStar } from '@fortawesome/free-solid-svg-icons';
 
 function BasicButtons() {
   return (
-    <div className='green_background vh-100'>
-    <div className=' container d-flex flex-column align-items-center vh-100 justify-content-center text-white gap-3' >
+    <div className='green_background custom_padding pb-4'>
+    <div className=' container d-flex flex-column align-items-center vh-100 justify-content-center text-white gap-lg-3 gap-sm-1 ' >
       
       <img className=' w-20' src={HeroPhoto} />
-           <h1 className=' heading_font_size custom-font fw-bold text-uppercase pt-3'>Start Bootstrap</h1>
+           <h1 className=' heading_font_size custom-font fw-bold text-uppercase pt-3 text-center'>Start Bootstrap</h1>
         <div className='divider-custom'>
           <span className='divider-custom-line'></span>
           <FontAwesomeIcon className='divider-custom-icon' icon={faStar} />

@@ -1,6 +1,6 @@
 function Navbar() {
   return (
-       <nav className="navbar navbar-expand-lg navbar-dark secondary_background py-2">
+       <nav className="navbar navbar-expand-lg navbar-dark secondary_background py-2 fixed-top">
   <div className="container">
     
     <a className="navbar-brand custom-font fs-2 fw-bold text-white" href="#">
