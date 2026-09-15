@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+a{
+  text-decoration: none;
+  color: white;
+}
+.custom-font {
+  font-family: "Montserrat", sans-serif !important;
+}
+.secondary_background
+{
+background-color: rgba(44, 62, 80, 1);
+}
+
+.green_background
+{
+background-color: rgba(26 ,188 , 156, 1);
+}
+.navbar-toggler-icon {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+
+
+li
+{
+  list-style: none;
+
+}
