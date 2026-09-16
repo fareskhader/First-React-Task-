@@ -24,6 +24,12 @@ color: rgba(44, 62, 80, 1);
 {
 background-color: rgba(26 ,188 , 156, 1);
 }
+
+.green_color
+{
+color: rgba(26 ,188 , 156, 1);
+}
+
 .navbar-toggler-icon {
   width: 1.2rem;
   height: 1.2rem;
